@@ -1,3 +1,3 @@
 # Final-Project
 
-[a relative link](Rent_price_vs_income_evaluation.ipynb)
+[Rent_price_vs_income_evaluation.ipynb](https://nbviewer.org/github/bvonanck/bvonanck.github.io/blob/main/Rent_price_vs_income_evaluation.ipynb)
